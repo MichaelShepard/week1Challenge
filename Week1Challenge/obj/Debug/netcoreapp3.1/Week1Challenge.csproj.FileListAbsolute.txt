@@ -1,0 +1,13 @@
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.exe
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.deps.json
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.runtimeconfig.json
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.runtimeconfig.dev.json
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.dll
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\bin\Debug\netcoreapp3.1\Week1Challenge.pdb
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.csprojAssemblyReference.cache
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.AssemblyInfoInputs.cache
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.AssemblyInfo.cs
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.csproj.CoreCompileInputs.cache
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.dll
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.pdb
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge\Week1ChallengeC\Week1Challenge\Week1Challenge\obj\Debug\netcoreapp3.1\Week1Challenge.genruntimeconfig.cache
