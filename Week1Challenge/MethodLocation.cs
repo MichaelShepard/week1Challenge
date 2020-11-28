@@ -144,21 +144,43 @@ namespace Week1Challenge
             Console.WriteLine("Input the string : ");
             string input = Console.ReadLine();
 
+
             char[] inputArray = input.ToCharArray();
 
             int length = inputArray.Length - 1;
 
             Console.WriteLine("This word has " + length + " letters.");
 
+            // Print each letter
             for (int i = 0; i <= length; i++)
             {
                 Console.WriteLine("{0} ", input[i]);
 
             }
 
+            // find i and print i
+            for (int r = 0; r <= length; r++)
+            {
+
+                if (input[r] == 'i') 
+                {
+                    
+                    Console.WriteLine("i");
+                
+                } else {
+                    
+                    Console.WriteLine("Not an i");
+                }
+
+            }
+
+            //Reverse Print
             Console.WriteLine("\n\n");
 
-           
+           for (int i = length; i >=0; i-- )
+            {
+                Console.WriteLine("{0}", input[i]);
+            }
 
         }
 
